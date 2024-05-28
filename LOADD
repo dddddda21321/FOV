@@ -15,7 +15,7 @@ end)
 
 -- // Dependencies
 local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/dddddda21321/FOV/main/FOV"))()
-Aiming.TeamCheck(false
+Aiming.TeamCheck(false)
 
 -- // Services
 local Workspace = game:GetService("Workspace")
