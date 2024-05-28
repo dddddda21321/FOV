@@ -14,7 +14,7 @@ end
 end)
 
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/dddddda21321/FOV/main/FOV"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/dddddda21321/FOV/main/a"))()
 Aiming.TeamCheck(false)
 
 -- // Services
